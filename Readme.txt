@@ -75,6 +75,12 @@ Una aplicación web para gestionar tareas personales. Permite crear, editar, eli
 	### URL FRONTEND
 		https://github.com/Surlar/to-do-list-app-frontend
 
+	### URL SCRIPTS BASE DE DATOS
+		https://github.com/Surlar/configuraciones-todolist/blob/main/DDL_DCL_DML.sql
+
+	## URL README
+		https://github.com/Surlar/configuraciones-todolist/blob/main/Readme.txt
+
 
 2. clone proyect.
 git clone https://github.com/Surlar/to-do-list-app-backend.git
